@@ -138,6 +138,6 @@
     { "country":  "vietnam", "geoName": "Vietnam", "cities": ["ho-chi-minh-city", "hanoi", "da-nang", "can-tho", "haiphong"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg" },
     { "country":  "yemen", "geoName": "Yemen", "cities": [" sana'a"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg" },
     { "country":  "zambia", "geoName": "Zambia", "cities": [" Lusaka"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Zambia.svg" },
-    { "country":  "zimbabwe", "geoName": "Zambia", "cities": ["harare", "bulawayo"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg" }
+    { "country":  "zimbabwe", "geoName": "Zimbabwe", "cities": ["harare", "bulawayo"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg" }
   ]
 }
